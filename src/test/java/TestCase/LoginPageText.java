@@ -45,7 +45,7 @@ public class LoginPageText extends TestBase{
 	@AfterMethod
 	public	void	exit() {
 	driver.close();
-
+// login page test case
 }
 }
 
